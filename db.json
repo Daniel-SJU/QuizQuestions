@@ -61,7 +61,7 @@
     "questionType" : "text_input",
     "questionText" : "The process of assigning a value to a variable is___________",
     "correctAnswer" : "initialization",
-    "answerFieldId" : "answer_to_question"
+    "answerFieldId" : "answer_to_question",
     "feedback": ["Correct", "Incorrect"]
   },
    {
@@ -69,7 +69,7 @@
     "questionType" : "text_input",
     "questionText" : "A class that implements a table, which maps keys to values.",
     "correctAnswer" : "Hash table",
-    "answerFieldId" : "answer_to_question"
+    "answerFieldId" : "answer_to_question",
     "feedback": ["Correct", "Incorrect"]
   },
    {
@@ -77,7 +77,7 @@
     "questionType" : "text_input",
     "questionText" : "What year was Java initiated?",
     "correctAnswer" : "1991",
-    "answerFieldId" : "answer_to_question"
+    "answerFieldId" : "answer_to_question",
     "feedback": ["Correct", "Incorrect"]
   },
   {
@@ -149,7 +149,7 @@
     "questionType" : "text_input",
     "questionText" : "________ is automatically handled by Java Virtual Machine, which means the programmer does not need to write code to manage memory.",
     "correctAnswer" : "Memory Management",
-    "answerFieldId" : "answer_to_question"
+    "answerFieldId" : "answer_to_question",
     "feedback": ["Correct", "Incorrect"]
   },
    {
@@ -157,7 +157,7 @@
     "questionType" : "text_input",
     "questionText" : "A placeholder for a value which can be modified according to the needs of the program or the results of a calculation is called a ______",
     "correctAnswer" : "variable",
-    "answerFieldId" : "answer_to_question"
+    "answerFieldId" : "answer_to_question",
     "feedback": ["Correct", "Incorrect"]
   }
   
